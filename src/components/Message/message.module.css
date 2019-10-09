@@ -1,0 +1,12 @@
+.msgarea{
+  min-height: 25px;
+  background-color: rgb(70, 64, 53);
+  color: rgb(214, 146, 19);
+}
+*{
+  padding-right: 6px;
+}
+.timestamp{
+  color: rgb(197, 186, 186);
+  white-space: nowrap;
+}

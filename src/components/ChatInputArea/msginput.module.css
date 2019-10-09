@@ -1,0 +1,24 @@
+.inputwrap {
+    display: flex;
+    position: relative;
+    padding: 5px 10px 10px 10px;
+}
+
+.mesinput {
+    margin-right: 5px;
+    flex-grow: 1;
+    height: 40px;
+    border: none;
+    background-color: rgb(59, 44, 44);
+    border-radius: 10px;
+    color: wheat;
+    font-size: large;
+}
+
+.inputwrap button {
+    width: 80px;
+    background: #c58d13;
+    border: none;
+    font-size: large;
+    border-radius: 4px;
+}
