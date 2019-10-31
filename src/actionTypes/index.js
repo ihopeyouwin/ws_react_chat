@@ -9,3 +9,7 @@ export const MESSAGES_RECEIVED = 'MESSAGE_RECEIVED';
 export const MESSAGE_SENT = 'MESSAGE_SENT';
 
 export const NICKNAME_CHANGED = 'NICKNAME_CHANGED';
+const bel = () => {
+    let a = 'dunno how to live that life';
+    return a
+};
