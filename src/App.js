@@ -15,7 +15,7 @@ const App = ({
                websocketIsOpened,
                receiveMessage,
                messagesPreparedForSending,
-               messageSent, rofl
+               messageSent
              }) => {
   const wscallbacks = useMemo(
       () => ({
